@@ -3,6 +3,7 @@
 # Description
 ## Cyber Defense / Security Analyst 
 - Results-driven IT Security Analyst with extensive experience in security operations, compliance, and risk management
+
 ## Information Technology (IT) Project Manager
 - Expertise in security compliance, risk assessment, vulnerability management, and third-party security assessments, ensuring alignment with industry standards such as NIST, ISO 27001, HIPAA, PCI DSS, and GDPR
  
