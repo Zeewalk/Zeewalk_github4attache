@@ -7,7 +7,7 @@
 - Expertise in security compliance, risk assessment, vulnerability management, and third-party security assessments, ensuring alignment with industry standards such as NIST, ISO 27001, HIPAA, PCI DSS, and GDPR
  
 # Work History
-- Univar Solutions (Hybrid) – Downers Grove, IL
+## Univar Solutions (Hybrid) – Downers Grove, IL
  - IT SECURITY ANALYST, COMPLIANCE & RISK MANAGEMENT
  - IT Analyst, IT Change Management
  - Sr. IT PMO Specalist
