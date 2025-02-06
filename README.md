@@ -13,8 +13,9 @@
  - Sr. IT PMO Specalist
 
 # Education
-- City Colleges of Chicago – Chicago, IL
-- Chicago State University – Chicago, IL
+## Bachelor of Science in Criminal Justice, Minor in Security & Intelligence, Language Focus: Arabic 
+- Chicago State University – Chicago, IL | Graduated with Honors, GPA: 3.50 | 2016 – 2019
+- City Colleges of Chicago – Chicago, IL | GPA: 3.46 | 2013 – 2015
 
 # Certifications
 - CompTIA Security+ (In Progress) – Anticipated Completion: June 2025
