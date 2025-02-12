@@ -1,7 +1,7 @@
 # Zeewalk_github4attache
 
 # Description
-## Cyber Defense / Security Analyst / Dolphin Enthusiast
+## Cyber Defense / Security Analyst
 - Results-driven IT Security Analyst with extensive experience in security operations, compliance, and risk management
 
 ## Information Technology (IT) Project Manager
